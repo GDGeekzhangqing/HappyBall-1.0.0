@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>免费一次.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{192,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{192,48}</string>
+                <key>textureRect</key>
+                <string>{{572,320},{192,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 9 10 7 8 10 0 6 7 5 1 3 5 3 4 1 2 3 1 5 6 0 1 6 0 7 10</string>
+                <key>vertices</key>
+                <string>100 19 144 12 140 0 192 0 192 48 157 48 105 37 94 48 0 48 0 0 93 0</string>
+                <key>verticesUV</key>
+                <string>672 339 716 332 712 320 764 320 764 368 729 368 677 357 666 368 572 368 572 320 665 320</string>
+            </dict>
+            <key>免费求助.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{237,59}</string>
+                <key>spriteSourceSize</key>
+                <string>{237,59}</string>
+                <key>textureRect</key>
+                <string>{{683,143},{237,59}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>237 59 0 59 0 0 237 0</string>
+                <key>verticesUV</key>
+                <string>920 202 683 202 683 143 920 143</string>
+            </dict>
+            <key>免费继续.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{314,78}</string>
+                <key>spriteSourceSize</key>
+                <string>{314,78}</string>
+                <key>textureRect</key>
+                <string>{{325,90},{314,78}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>314 78 0 78 0 21 20 0 314 0</string>
+                <key>verticesUV</key>
+                <string>639 168 325 168 325 111 345 90 639 90</string>
+            </dict>
+            <key>免费继续白色.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{240,58}</string>
+                <key>spriteSourceSize</key>
+                <string>{240,58}</string>
+                <key>textureRect</key>
+                <string>{{330,283},{240,58}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>240 58 0 58 0 0 240 0</string>
+                <key>verticesUV</key>
+                <string>570 341 330 341 330 283 570 283</string>
+            </dict>
+            <key>内含10个免费继续的礼包 自己也能抢！.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{403,78}</string>
+                <key>spriteSourceSize</key>
+                <string>{403,78}</string>
+                <key>textureRect</key>
+                <string>{{541,1},{403,78}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 5 6 7 4 5 7 9 10 11 8 9 11</string>
+                <key>vertices</key>
+                <string>273 78 94 78 94 43 273 43 295 74 285 74 285 44 295 44 403 36 0 36 0 0 403 0</string>
+                <key>verticesUV</key>
+                <string>814 79 635 79 635 44 814 44 836 75 826 75 826 45 836 45 944 37 541 37 541 1 944 1</string>
+            </dict>
+            <key>单人排行榜.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{150,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{150,28}</string>
+                <key>textureRect</key>
+                <string>{{766,359},{150,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>150 19 148 28 0 28 0 0 150 0</string>
+                <key>verticesUV</key>
+                <string>916 378 914 387 766 387 766 359 916 359</string>
+            </dict>
+            <key>印记.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{48,23}</string>
+                <key>spriteSourceSize</key>
+                <string>{48,23}</string>
+                <key>textureRect</key>
+                <string>{{881,64},{48,23}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>48 23 0 23 0 0 48 0</string>
+                <key>verticesUV</key>
+                <string>929 87 881 87 881 64 929 64</string>
+            </dict>
+            <key>发起挑战.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{322,106}</string>
+                <key>spriteSourceSize</key>
+                <string>{322,106}</string>
+                <key>textureRect</key>
+                <string>{{1,90},{322,106}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 5 6 7 4 5 7 15 8 9 14 15 9 14 9 10 13 14 10 12 13 10 12 10 11 19 12 11 18 19 11 8 18 11 8 15 16 8 17 18 16 17 8</string>
+                <key>vertices</key>
+                <string>90 81 31 81 31 23 90 23 291 79 105 79 105 31 291 31 322 106 0 106 0 0 322 0 21 7 10 14 7 84 21 99 301 99 312 92 315 22 301 7</string>
+                <key>verticesUV</key>
+                <string>91 171 32 171 32 113 91 113 292 169 106 169 106 121 292 121 323 196 1 196 1 90 323 90 22 97 11 104 8 174 22 189 302 189 313 182 316 112 302 97</string>
+            </dict>
+            <key>发起接力.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{215,54}</string>
+                <key>spriteSourceSize</key>
+                <string>{215,54}</string>
+                <key>textureRect</key>
+                <string>{{618,264},{215,54}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>215 54 0 54 0 0 215 0</string>
+                <key>verticesUV</key>
+                <string>833 318 618 318 618 264 833 264</string>
+            </dict>
+            <key>发送.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{120,59}</string>
+                <key>spriteSourceSize</key>
+                <string>{120,59}</string>
+                <key>textureRect</key>
+                <string>{{203,325},{120,59}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>120 59 0 59 0 0 120 0</string>
+                <key>verticesUV</key>
+                <string>323 384 203 384 203 325 323 325</string>
+            </dict>
+            <key>右.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{30,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{30,29}</string>
+                <key>textureRect</key>
+                <string>{{603,39},{30,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>30 29 0 29 0 0 30 0</string>
+                <key>verticesUV</key>
+                <string>633 68 603 68 603 39 633 39</string>
+            </dict>
+            <key>左.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{30,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{30,26}</string>
+                <key>textureRect</key>
+                <string>{{934,292},{30,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>30 26 0 26 0 0 30 0</string>
+                <key>verticesUV</key>
+                <string>964 318 934 318 934 292 964 292</string>
+            </dict>
+            <key>开始游戏.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{236,58}</string>
+                <key>spriteSourceSize</key>
+                <string>{236,58}</string>
+                <key>textureRect</key>
+                <string>{{683,204},{236,58}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>236 58 0 58 0 0 236 0</string>
+                <key>verticesUV</key>
+                <string>919 262 683 262 683 204 919 204</string>
+            </dict>
+            <key>拖尾.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{47,22}</string>
+                <key>spriteSourceSize</key>
+                <string>{47,22}</string>
+                <key>textureRect</key>
+                <string>{{153,365},{47,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>47 22 0 22 0 0 47 0</string>
+                <key>verticesUV</key>
+                <string>200 387 153 387 153 365 200 365</string>
+            </dict>
+            <key>按住屏幕中央.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{180,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{180,29}</string>
+                <key>textureRect</key>
+                <string>{{390,343},{180,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>180 29 0 29 0 0 180 0</string>
+                <key>verticesUV</key>
+                <string>570 372 390 372 390 343 570 343</string>
+            </dict>
+            <key>挑战皮肤.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{97,23}</string>
+                <key>spriteSourceSize</key>
+                <string>{97,23}</string>
+                <key>textureRect</key>
+                <string>{{838,39},{97,23}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 4 5 2 3 4 1 2 5 0 1 5</string>
+                <key>vertices</key>
+                <string>97 4 97 23 0 23 0 3 2 0 91 0</string>
+                <key>verticesUV</key>
+                <string>935 43 935 62 838 62 838 42 840 39 929 39</string>
+            </dict>
+            <key>排行榜.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{264,54}</string>
+                <key>spriteSourceSize</key>
+                <string>{264,54}</string>
+                <key>textureRect</key>
+                <string>{{352,227},{264,54}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 4 5 2 3 4 1 2 5 0 1 5 6 7 8 6 8 9</string>
+                <key>vertices</key>
+                <string>225 52 214 54 66 54 0 51 0 0 225 0 264 24 264 52 240 52 240 0</string>
+                <key>verticesUV</key>
+                <string>577 279 566 281 418 281 352 278 352 227 577 227 616 251 616 279 592 279 592 227</string>
+            </dict>
+            <key>接力排行榜.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{150,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{150,28}</string>
+                <key>textureRect</key>
+                <string>{{1,365},{150,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>150 28 0 28 0 0 150 0</string>
+                <key>verticesUV</key>
+                <string>151 393 1 393 1 365 151 365</string>
+            </dict>
+            <key>控制.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{58,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{58,30}</string>
+                <key>textureRect</key>
+                <string>{{325,343},{58,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>58 30 0 30 0 0 58 0</string>
+                <key>verticesUV</key>
+                <string>383 373 325 373 325 343 383 343</string>
+            </dict>
+            <key>方向右.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{31,34}</string>
+                <key>spriteSourceSize</key>
+                <string>{31,34}</string>
+                <key>textureRect</key>
+                <string>{{585,284},{31,34}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>31 34 0 34 0 0 31 0</string>
+                <key>verticesUV</key>
+                <string>616 318 585 318 585 284 616 284</string>
+            </dict>
+            <key>方向左.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{31,34}</string>
+                <key>spriteSourceSize</key>
+                <string>{31,34}</string>
+                <key>textureRect</key>
+                <string>{{918,359},{31,34}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>31 34 0 34 0 0 31 0</string>
+                <key>verticesUV</key>
+                <string>949 393 918 393 918 359 949 359</string>
+            </dict>
+            <key>旋转.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{60,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{60,29}</string>
+                <key>textureRect</key>
+                <string>{{621,233},{60,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 4 5 2 3 4 1 2 5 0 1 5</string>
+                <key>vertices</key>
+                <string>60 4 60 29 0 29 0 4 3 0 53 0</string>
+                <key>verticesUV</key>
+                <string>681 237 681 262 621 262 621 237 624 233 674 233</string>
+            </dict>
+            <key>本局金币结算.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{538,87}</string>
+                <key>spriteSourceSize</key>
+                <string>{538,87}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{538,87}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>8 12 13 11 12 8 11 9 10 11 8 9 7 8 13 6 3 4 6 4 5 3 6 7 0 2 3 0 1 2 7 13 0 0 3 7</string>
+                <key>vertices</key>
+                <string>194 17 217 0 238 0 264 14 270 0 538 0 538 87 97 87 78 74 51 87 22 87 0 65 0 0 168 0</string>
+                <key>verticesUV</key>
+                <string>195 18 218 1 239 1 265 15 271 1 539 1 539 88 98 88 79 75 52 88 23 88 1 66 1 1 169 1</string>
+            </dict>
+            <key>查看群排行.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{349,58}</string>
+                <key>spriteSourceSize</key>
+                <string>{349,58}</string>
+                <key>textureRect</key>
+                <string>{{1,198},{349,58}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3 5 6 7 4 5 7 8 9 10 8 10 11</string>
+                <key>vertices</key>
+                <string>59 58 0 58 0 0 59 0 310 56 68 56 68 6 310 6 349 25 349 53 325 53 325 1</string>
+                <key>verticesUV</key>
+                <string>60 256 1 256 1 198 60 198 311 254 69 254 69 204 311 204 350 223 350 251 326 251 326 199</string>
+            </dict>
+            <key>滑动.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{59,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{59,28}</string>
+                <key>textureRect</key>
+                <string>{{541,39},{59,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>59 28 0 28 0 0 59 0</string>
+                <key>verticesUV</key>
+                <string>600 67 541 67 541 39 600 39</string>
+            </dict>
+            <key>点击跳过.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{198,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{198,37}</string>
+                <key>textureRect</key>
+                <string>{{766,320},{198,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>198 37 0 37 0 0 198 0</string>
+                <key>verticesUV</key>
+                <string>964 357 766 357 766 320 964 320</string>
+            </dict>
+            <key>看视频抽奖.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{200,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{200,38}</string>
+                <key>textureRect</key>
+                <string>{{1,325},{200,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>200 38 0 38 0 0 200 0</string>
+                <key>verticesUV</key>
+                <string>201 363 1 363 1 325 201 325</string>
+            </dict>
+            <key>看视频继续.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{327,65}</string>
+                <key>spriteSourceSize</key>
+                <string>{327,65}</string>
+                <key>textureRect</key>
+                <string>{{1,258},{327,65}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>327 65 0 65 0 0 327 0</string>
+                <key>verticesUV</key>
+                <string>328 323 1 323 1 258 328 258</string>
+            </dict>
+            <key>看视频翻一倍.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{335,55}</string>
+                <key>spriteSourceSize</key>
+                <string>{335,55}</string>
+                <key>textureRect</key>
+                <string>{{346,170},{335,55}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>9 12 13 11 12 9 11 9 10 8 9 13 4 5 6 1 3 4 1 4 6 1 2 3 1 6 7 0 1 7 8 13 0 7 8 0</string>
+                <key>vertices</key>
+                <string>225 22 284 9 289 0 335 0 335 55 285 55 279 36 238 36 219 55 8 55 1 44 0 41 0 0 221 0</string>
+                <key>verticesUV</key>
+                <string>571 192 630 179 635 170 681 170 681 225 631 225 625 206 584 206 565 225 354 225 347 214 346 211 346 170 567 170</string>
+            </dict>
+            <key>选中状态印记.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{48,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{48,24}</string>
+                <key>textureRect</key>
+                <string>{{881,117},{48,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>48 24 0 24 0 0 48 0</string>
+                <key>verticesUV</key>
+                <string>929 141 881 141 881 117 929 117</string>
+            </dict>
+            <key>选中状态拖尾.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{48,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{48,24}</string>
+                <key>textureRect</key>
+                <string>{{881,91},{48,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>48 24 0 24 0 0 48 0</string>
+                <key>verticesUV</key>
+                <string>929 115 881 115 881 91 929 91</string>
+            </dict>
+            <key>选中状态挑战皮肤.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{97,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{97,24}</string>
+                <key>textureRect</key>
+                <string>{{835,294},{97,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>97 24 0 24 0 0 97 0</string>
+                <key>verticesUV</key>
+                <string>932 318 835 318 835 294 932 294</string>
+            </dict>
+            <key>选中状态金币皮肤.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{97,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{97,24}</string>
+                <key>textureRect</key>
+                <string>{{835,268},{97,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>97 24 0 24 0 0 97 0</string>
+                <key>verticesUV</key>
+                <string>932 292 835 292 835 268 932 268</string>
+            </dict>
+            <key>道具礼包.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{238,60}</string>
+                <key>spriteSourceSize</key>
+                <string>{238,60}</string>
+                <key>textureRect</key>
+                <string>{{641,81},{238,60}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>4 5 6 1 2 3 0 1 3 4 6 0 3 4 0</string>
+                <key>vertices</key>
+                <string>178 16 190 0 238 0 238 60 0 60 0 0 161 0</string>
+                <key>verticesUV</key>
+                <string>819 97 831 81 879 81 879 141 641 141 641 81 802 81</string>
+            </dict>
+            <key>金币皮肤.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{97,23}</string>
+                <key>spriteSourceSize</key>
+                <string>{97,23}</string>
+                <key>textureRect</key>
+                <string>{{667,370},{97,23}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>97 23 0 23 0 0 97 0</string>
+                <key>verticesUV</key>
+                <string>764 393 667 393 667 370 764 370</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>02TitleBtn.png</string>
+            <key>size</key>
+            <string>{965,394}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c16b33942571e3e79af2427cb72e3b42:585753a8affb6fff9b49d27b11804511:2e56dfc08ce4073db2c04f479916bb27$</string>
+            <key>textureFileName</key>
+            <string>02TitleBtn.png</string>
+        </dict>
+    </dict>
+</plist>

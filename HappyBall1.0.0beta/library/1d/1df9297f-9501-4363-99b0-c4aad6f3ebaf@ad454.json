@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3d771e2b-2126-441c-96c2-60abc7cf5ce1",
+    "name": "说明：每天首次登录立刻赠送3个",
+    "atlas": "1df9297f-9501-4363-99b0-c4aad6f3ebaf",
+    "rect": {
+      "x": 0,
+      "y": 54,
+      "width": 481,
+      "height": 37
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 481,
+      "height": 37
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

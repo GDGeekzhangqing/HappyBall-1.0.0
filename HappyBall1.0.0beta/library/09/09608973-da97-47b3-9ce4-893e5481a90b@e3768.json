@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "fcd7c2a0-6947-4f4a-bf71-88bb7bc18518",
+    "name": "签到框",
+    "atlas": "09608973-da97-47b3-9ce4-893e5481a90b",
+    "rect": {
+      "x": 753,
+      "y": 1,
+      "width": 735,
+      "height": 911
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 735,
+      "height": 911
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

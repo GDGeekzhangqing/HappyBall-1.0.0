@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f8ac72cf-39fa-48cf-8b64-6e9ad954fd18",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Main/Model/RelayRankListItem.ts",
+    "importAsPlugin": false
+  }
+}

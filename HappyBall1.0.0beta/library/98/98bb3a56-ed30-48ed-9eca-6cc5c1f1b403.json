@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "06OthersBtn",
+    "spriteFrames": [
+      "圈底图",
+      "98bb3a56-ed30-48ed-9eca-6cc5c1f1b403@e3f6d",
+      "游戏logo",
+      "98bb3a56-ed30-48ed-9eca-6cc5c1f1b403@24a9a",
+      "转盘",
+      "98bb3a56-ed30-48ed-9eca-6cc5c1f1b403@c1146",
+      "黄色底线",
+      "98bb3a56-ed30-48ed-9eca-6cc5c1f1b403@fc42b"
+    ]
+  }
+}

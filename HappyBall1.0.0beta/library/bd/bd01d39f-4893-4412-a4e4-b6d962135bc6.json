@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "MoreGameCfg",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "id": 1,
+      "imgIconUrl": "a",
+      "txtDes": "这是第一章图片"
+    },
+    {
+      "id": 2,
+      "imgIconUrl": "b",
+      "txtDes": "这是第二章图片"
+    },
+    {
+      "id": 3,
+      "imgIconUrl": "c",
+      "txtDes": "这是第三章图片"
+    },
+    {
+      "id": 4,
+      "imgIconUrl": "d",
+      "txtDes": "这是第四章图片"
+    },
+    {
+      "id": 5,
+      "imgIconUrl": "e",
+      "txtDes": "这是第五章图片"
+    },
+    {
+      "id": 6,
+      "imgIconUrl": "f",
+      "txtDes": "这是第六章图片"
+    },
+    {
+      "id": 7,
+      "imgIconUrl": "g",
+      "txtDes": "这是第七章图片"
+    },
+    {
+      "id": 8,
+      "imgIconUrl": "h",
+      "txtDes": "这是第八章图片"
+    },
+    {
+      "id": 9,
+      "imgIconUrl": "i",
+      "txtDes": "这是第九章图片"
+    },
+    {
+      "id": 10,
+      "imgIconUrl": "j",
+      "txtDes": "这是第十章图片"
+    }
+  ]
+}

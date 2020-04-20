@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3732e983-ec8d-4fc9-94bd-58b9bff8b7df",
+    "name": "音量",
+    "atlas": "f6d3d153-39a0-460c-ae78-10ed6fac11d3",
+    "rect": {
+      "x": 422,
+      "y": 0,
+      "width": 55,
+      "height": 51
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 55,
+      "height": 51
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

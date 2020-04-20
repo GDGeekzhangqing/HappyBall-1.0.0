@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "6061c230-01d4-4d01-8dae-83579a555ec3",
+    "name": "点击跳过",
+    "atlas": "c363e594-3b82-4101-b902-a63fd2b0c3aa",
+    "rect": {
+      "x": 766,
+      "y": 320,
+      "width": 198,
+      "height": 37
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 198,
+      "height": 37
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

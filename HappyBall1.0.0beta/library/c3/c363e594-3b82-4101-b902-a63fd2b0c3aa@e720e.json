@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "6061c230-01d4-4d01-8dae-83579a555ec3",
+    "name": "看视频翻一倍",
+    "atlas": "c363e594-3b82-4101-b902-a63fd2b0c3aa",
+    "rect": {
+      "x": 346,
+      "y": 170,
+      "width": 335,
+      "height": 55
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 335,
+      "height": 55
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

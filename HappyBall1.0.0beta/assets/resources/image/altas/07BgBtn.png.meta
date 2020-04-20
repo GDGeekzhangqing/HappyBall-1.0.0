@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "0b4882be-e43f-41ae-9192-263d1ee3b6fa",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "07BgBtn",
+      "uuid": "0b4882be-e43f-41ae-9192-263d1ee3b6fa@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0b4882be-e43f-41ae-9192-263d1ee3b6fa"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "0b4882be-e43f-41ae-9192-263d1ee3b6fa@6c48a"
+  }
+}

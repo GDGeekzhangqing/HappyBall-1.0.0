@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3d771e2b-2126-441c-96c2-60abc7cf5ce1",
+    "name": "每局游戏后，可发送道具礼包",
+    "atlas": "1df9297f-9501-4363-99b0-c4aad6f3ebaf",
+    "rect": {
+      "x": 371,
+      "y": 0,
+      "width": 306,
+      "height": 24
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 306,
+      "height": 24
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "02Btn-0",
+    "spriteFrames": [
+      "免费一次",
+      "ffaf23f4-f5cf-4efd-836e-5026d8ceea62@3c41e",
+      "关闭 拷贝",
+      "ffaf23f4-f5cf-4efd-836e-5026d8ceea62@70419",
+      "圈",
+      "ffaf23f4-f5cf-4efd-836e-5026d8ceea62@aab84",
+      "欢乐转盘",
+      "ffaf23f4-f5cf-4efd-836e-5026d8ceea62@9af14",
+      "点击抽奖",
+      "ffaf23f4-f5cf-4efd-836e-5026d8ceea62@6d020",
+      "看视频抽奖",
+      "ffaf23f4-f5cf-4efd-836e-5026d8ceea62@982f4"
+    ]
+  }
+}

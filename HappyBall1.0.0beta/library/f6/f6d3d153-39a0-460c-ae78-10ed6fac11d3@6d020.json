@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3732e983-ec8d-4fc9-94bd-58b9bff8b7df",
+    "name": "点击抽奖",
+    "atlas": "f6d3d153-39a0-460c-ae78-10ed6fac11d3",
+    "rect": {
+      "x": 201,
+      "y": 682,
+      "width": 157,
+      "height": 212
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 157,
+      "height": 212
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

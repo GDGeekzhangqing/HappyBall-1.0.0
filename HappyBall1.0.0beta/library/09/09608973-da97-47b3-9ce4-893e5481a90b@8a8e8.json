@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "fcd7c2a0-6947-4f4a-bf71-88bb7bc18518",
+    "name": "更多框",
+    "atlas": "09608973-da97-47b3-9ce4-893e5481a90b",
+    "rect": {
+      "x": 1376,
+      "y": 914,
+      "width": 586,
+      "height": 405
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 586,
+      "height": 405
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

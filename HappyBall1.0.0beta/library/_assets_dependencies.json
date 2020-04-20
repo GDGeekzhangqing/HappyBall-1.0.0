@@ -1,0 +1,67 @@
+{
+  "file2uuids": {
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\01FreeContinue.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\02Btn.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\03Rank.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\04OI.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\05MoreGame.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\06LastPanel.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\09SettlePanel.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\08OverPanel.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\10Setting.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\10RotaryTable.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\12Props.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\13DifficultModel.png": [],
+    "I:\\HappyBall(10.18.1)\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\13Skin.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\02Btn.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\06LastPanel.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\02Btn-0.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\02Btn-1.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\11Props.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\03DialogBtn.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\01IconBtn.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\02TitleBtn.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\04TxtDes.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\06OthersBtn.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\08Test.png": [],
+    "I:\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\07BgBtn.png": [],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\05SignBtn.png": [
+      "93486bbf-8195-4e14-a432-add748c01dd0"
+    ],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\01IconBtn.png": [],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\04TxtDes.png": [],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\01IconBtn.png": [
+      "f6d3d153-39a0-460c-ae78-10ed6fac11d3"
+    ],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\02TitleBtn.png": [
+      "c363e594-3b82-4101-b902-a63fd2b0c3aa"
+    ],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\03DialogBtn.png": [
+      "09608973-da97-47b3-9ce4-893e5481a90b"
+    ],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\04TxtDes.png": [
+      "1df9297f-9501-4363-99b0-c4aad6f3ebaf"
+    ],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\06OthersBtn.png": [
+      "98bb3a56-ed30-48ed-9eca-6cc5c1f1b403"
+    ],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\07BgBtn.png": [
+      "329ad69c-5d69-4aeb-b602-73ea3c80823a"
+    ],
+    "E:\\CoCos3DLst\\HappyBall1.0.0beta\\assets\\resources\\image\\altas\\08Test.png": [
+      "e2ac0968-7d6d-4c9a-ac80-3dd83663b375"
+    ]
+  },
+  "uuid2uuids": {
+    "1baf0fc9-befa-459c-8bdd-af1a450a0319": [
+      "45c68ea5-b4da-4543-8ab6-3e603f0becb8",
+      "169251aa-cc08-4227-bd49-996d006ffb45",
+      "a67229f3-af21-4925-a93d-382c329fc1b6",
+      "6897885f-0245-49af-b180-318dd6040f5c",
+      "d56e4aa7-6da1-49ef-9f68-baebfeb9d18b"
+    ],
+    "3eaafe6d-187a-4175-9669-7b03d92d4d6d": [
+      "01493f02-8963-49ff-bcab-d8a6e969a46b"
+    ]
+  }
+}

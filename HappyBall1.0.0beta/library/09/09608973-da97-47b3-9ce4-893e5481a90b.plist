@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>即将获得.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{147,228}</string>
+                <key>spriteSourceSize</key>
+                <string>{147,228}</string>
+                <key>textureRect</key>
+                <string>{{576,1337},{147,228}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>147 228 0 228 0 0 147 0</string>
+                <key>verticesUV</key>
+                <string>723 1565 576 1565 576 1337 723 1337</string>
+            </dict>
+            <key>圆角矩形3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{383,234}</string>
+                <key>spriteSourceSize</key>
+                <string>{383,234}</string>
+                <key>textureRect</key>
+                <string>{{1410,678},{383,234}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>383 234 0 234 0 1 3 0 383 0</string>
+                <key>verticesUV</key>
+                <string>1793 912 1410 912 1410 679 1413 678 1793 678</string>
+            </dict>
+            <key>对话框.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{97,88}</string>
+                <key>spriteSourceSize</key>
+                <string>{97,88}</string>
+                <key>textureRect</key>
+                <string>{{576,1567},{97,88}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>97 88 0 88 0 0 97 0</string>
+                <key>verticesUV</key>
+                <string>673 1655 576 1655 576 1567 673 1567</string>
+            </dict>
+            <key>更多框.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{586,405}</string>
+                <key>spriteSourceSize</key>
+                <string>{586,405}</string>
+                <key>textureRect</key>
+                <string>{{1376,914},{586,405}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 5 6 2 3 4 2 4 5 0 1 2 0 2 6</string>
+                <key>vertices</key>
+                <string>586 22 586 83 498 97 497 405 0 405 0 0 564 0</string>
+                <key>verticesUV</key>
+                <string>1962 936 1962 997 1874 1011 1873 1319 1376 1319 1376 914 1940 914</string>
+            </dict>
+            <key>框.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{573,606}</string>
+                <key>spriteSourceSize</key>
+                <string>{573,606}</string>
+                <key>textureRect</key>
+                <string>{{1,1337},{573,606}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>573 606 0 606 0 0 573 0</string>
+                <key>verticesUV</key>
+                <string>574 1943 1 1943 1 1337 574 1337</string>
+            </dict>
+            <key>皮肤框.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{621,961}</string>
+                <key>spriteSourceSize</key>
+                <string>{621,961}</string>
+                <key>textureRect</key>
+                <string>{{753,914},{621,961}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>621 961 0 961 0 0 621 0</string>
+                <key>verticesUV</key>
+                <string>1374 1875 753 1875 753 914 1374 914</string>
+            </dict>
+            <key>签到框.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{735,911}</string>
+                <key>spriteSourceSize</key>
+                <string>{735,911}</string>
+                <key>textureRect</key>
+                <string>{{753,1},{735,911}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>15 16 17 0 6 15 13 14 15 12 13 15 9 12 15 11 9 10 11 12 9 6 7 9 7 8 9 6 9 15 4 5 6 3 4 6 0 2 3 0 1 2 0 3 6 0 15 17</string>
+                <key>vertices</key>
+                <string>659 27 735 27 735 33 700 88 735 139 735 143 655 149 655 911 80 911 80 149 0 143 0 139 31 92 0 33 0 27 79 23 81 0 654 0</string>
+                <key>verticesUV</key>
+                <string>1412 28 1488 28 1488 34 1453 89 1488 140 1488 144 1408 150 1408 912 833 912 833 150 753 144 753 140 784 93 753 34 753 28 832 24 834 1 1407 1</string>
+            </dict>
+            <key>遮罩.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{750,1334}</string>
+                <key>spriteSourceSize</key>
+                <string>{750,1334}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{750,1334}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>750 1334 0 1334 0 0 750 0</string>
+                <key>verticesUV</key>
+                <string>751 1335 1 1335 1 1 751 1</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>03DialogBtn.png</string>
+            <key>size</key>
+            <string>{1963,1944}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e695b76effdc05ce778e264b29ef59a3:8739346e760c735d93fbb506cc765ef6:51f5a35184f69d7fd3dca0dd03719a12$</string>
+            <key>textureFileName</key>
+            <string>03DialogBtn.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,85 @@
+{
+  "projectSetting": {},
+  "common": {
+    "platform": "wechatgame",
+    "debug": true,
+    "forceCombileEngine": false,
+    "md5Cache": false,
+    "mergeStartScene": true,
+    "sourceMaps": false,
+    "name": "HappyBall1",
+    "scenes": [
+      {
+        "url": "db://assets/New Scene.scene",
+        "uuid": "e83f1e0f-aa13-45cf-a249-426e39d34970"
+      },
+      {
+        "url": "db://assets/resources/scenes/Game.scene",
+        "uuid": "ada8b029-48f7-42ae-94ed-0261502349bf"
+      }
+    ],
+    "appid": "wx232ea3d2e7178890",
+    "startScene": "ada8b029-48f7-42ae-94ed-0261502349bf",
+    "orientation": "portrait",
+    "subContext": "HappyBallOpenZero",
+    "buildPath": "build",
+    "packAutoAtlas": false
+  },
+  "BuildTaskManager": {
+    "queue": [
+      {
+        "id": "wechatgame",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "appid": "wx232ea3d2e7178890",
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": true,
+          "forceCombileEngine": false,
+          "inlineSpriteFrames": false,
+          "md5Cache": false,
+          "mergeStartScene": true,
+          "name": "HappyBall1",
+          "orientation": "portrait",
+          "packAutoAtlas": false,
+          "platform": "wechatgame",
+          "remoteServerAddress": "",
+          "scenes": [
+            {
+              "url": "db://assets/resources/scenes/Game.scene",
+              "uuid": "ada8b029-48f7-42ae-94ed-0261502349bf"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "ada8b029-48f7-42ae-94ed-0261502349bf",
+          "subContext": "HappyBallOpenZero",
+          "taskName": "wechatgame",
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween"
+          ],
+          "designResolution": {
+            "width": 750,
+            "height": 1350,
+            "fitWidth": true,
+            "fitHeight": false
+          }
+        },
+        "message": "build sucess in 3989 ms!"
+      }
+    ]
+  },
+  "wechatgame": {
+    "appid": "wx232ea3d2e7178890",
+    "orientation": "portrait",
+    "subContext": "HappyBallOpenZero"
+  }
+}

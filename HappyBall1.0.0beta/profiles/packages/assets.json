@@ -1,0 +1,6 @@
+{
+  "state": {
+    "expand": "[\"db://assets\",\"85f246a8-13a6-4a00-9891-af54ae5b61e9\",\"75e3627f-9cb1-4b88-9b3e-b4b6b3faddc1\",\"d97a666c-faf8-464f-9e5a-02672ecce0f9\",\"d606701f-4551-4265-a08f-21e9245a94bd\",\"0138f626-ed40-4605-9404-31e966cf14b9\",\"14094c25-9228-439b-9117-d696b4f8c7db\",\"544e2048-7979-45d3-afb7-b67177d241ab\",\"60bd82be-ee70-47ba-93af-7b200bf51a00\",\"4aaf2a13-820d-4cd4-8557-dee7666ea359\",\"4716b6c7-c82f-4713-8464-1e20ee396079\",\"0beb22ae-cf1a-4fcf-be78-5c8ce5f504fd\",\"1c576278-9ff2-4c96-87d9-dce616dda9da\",\"efd7f46b-a115-4c2f-8250-beddfbe11ce4\",\"e51e01ae-6b05-40e0-8d97-c993c85fdcd1\",\"9c3b6ea4-8ba5-405c-a486-907f8d2e4e5b\",\"db://internal\"]",
+    "sort": "name"
+  }
+}

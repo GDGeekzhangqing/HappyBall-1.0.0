@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "fcd7c2a0-6947-4f4a-bf71-88bb7bc18518",
+    "name": "对话框",
+    "atlas": "09608973-da97-47b3-9ce4-893e5481a90b",
+    "rect": {
+      "x": 576,
+      "y": 1567,
+      "width": 97,
+      "height": 88
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 97,
+      "height": 88
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

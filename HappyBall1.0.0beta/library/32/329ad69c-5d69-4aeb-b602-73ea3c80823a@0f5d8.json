@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "0b4882be-e43f-41ae-9192-263d1ee3b6fa",
+    "name": "再玩一局",
+    "atlas": "329ad69c-5d69-4aeb-b602-73ea3c80823a",
+    "rect": {
+      "x": 328,
+      "y": 286,
+      "width": 309,
+      "height": 99
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 309,
+      "height": 99
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

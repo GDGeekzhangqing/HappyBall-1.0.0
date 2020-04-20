@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3d771e2b-2126-441c-96c2-60abc7cf5ce1",
+    "name": "欢乐转盘",
+    "atlas": "1df9297f-9501-4363-99b0-c4aad6f3ebaf",
+    "rect": {
+      "x": 0,
+      "y": 239,
+      "width": 613,
+      "height": 118
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 613,
+      "height": 118
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

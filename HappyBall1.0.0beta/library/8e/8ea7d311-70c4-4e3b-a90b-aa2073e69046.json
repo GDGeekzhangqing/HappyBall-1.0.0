@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "PlayerData",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "name": "掌情",
+      "coinVal": 108,
+      "lastScore": 188,
+      "currentScore": 166,
+      "hightestVal": 884,
+      "DiamondVal": 775
+    }
+  ]
+}

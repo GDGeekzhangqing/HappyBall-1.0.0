@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3d771e2b-2126-441c-96c2-60abc7cf5ce1",
+    "name": "内含10个免费继续的礼包 自己也能抢！",
+    "atlas": "1df9297f-9501-4363-99b0-c4aad6f3ebaf",
+    "rect": {
+      "x": 164,
+      "y": 151,
+      "width": 403,
+      "height": 78
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 403,
+      "height": 78
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

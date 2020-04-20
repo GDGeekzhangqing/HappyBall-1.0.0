@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3d771e2b-2126-441c-96c2-60abc7cf5ce1",
+    "name": "每次挑战中可以用1个免费继续保留得分继续玩",
+    "atlas": "1df9297f-9501-4363-99b0-c4aad6f3ebaf",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 371,
+      "height": 18
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 371,
+      "height": 18
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

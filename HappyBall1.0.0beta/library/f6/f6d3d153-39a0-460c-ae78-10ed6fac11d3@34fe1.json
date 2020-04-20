@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3732e983-ec8d-4fc9-94bd-58b9bff8b7df",
+    "name": "单个金币",
+    "atlas": "f6d3d153-39a0-460c-ae78-10ed6fac11d3",
+    "rect": {
+      "x": 284,
+      "y": 0,
+      "width": 48,
+      "height": 48
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 48,
+      "height": 48
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

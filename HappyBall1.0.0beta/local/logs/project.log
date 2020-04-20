@@ -1,0 +1,213 @@
+2019-11-08 19:33:57-warn: [Window] Error: 会话不存在或已过期
+2019-11-08 19:33:58-log: preferences@1.0.0 enable
+2019-11-08 19:34:01-log: Parse [D:/CoCos3D/CocosCreator3D/resources/resources/3d/engine/index.ts] : walk 479  files.
+2019-11-08 19:34:01-log: Parse [D:/CoCos3D/CocosCreator3D/resources/resources/3d/engine/index.ts]: 2153.055ms
+2019-11-08 19:34:01-log: QuickCompiler compileFinished: 50.130ms
+2019-11-08 19:34:01-log: QuickCompiler rebuild finished: 2316.082ms
+2019-11-08 19:34:01-log: engine@1.0.0 enable
+2019-11-08 19:34:01-log: asset-db@1.0.0 enable
+2019-11-08 19:34:01-log: console@1.0.0 enable
+2019-11-08 19:34:01-log: scene@1.0.0 enable
+2019-11-08 19:34:01-log: ui-kit@1.0.0 enable
+2019-11-08 19:34:01-log: assets@1.0.0 enable
+2019-11-08 19:34:01-log: inspector@1.0.0 enable
+2019-11-08 19:34:01-log: hierarchy@1.0.0 enable
+2019-11-08 19:34:01-log: packager@1.0.0 enable
+2019-11-08 19:34:01-log: project-setting@1.0.0 enable
+2019-11-08 19:34:01-log: preview@1.0.0 enable
+2019-11-08 19:34:03-log: builder@1.0.0 enable
+2019-11-08 19:34:03-log: animator@1.0.0 enable
+2019-11-08 19:34:03-log: about@1.0.0 enable
+2019-11-08 19:34:03-log: tester@1.0.0 enable
+2019-11-08 19:34:03-log: ipc@1.0.0 enable
+2019-11-08 19:34:03-log: profile@1.0.0 enable
+2019-11-08 19:34:09-warn: [Scene] Can not instantiate CCClass 'SkinItemData' with arguments.
+2019-11-08 19:34:09-warn: [Scene] Can not instantiate CCClass 'PlayerData' with arguments.
+2019-11-08 19:34:09-warn: [Scene] Can not instantiate CCClass 'RelayRankListData' with arguments.
+2019-11-08 19:34:09-warn: [Scene] Can not instantiate CCClass 'MoreGameData' with arguments.
+2019-11-08 19:34:09-warn: [Scene] Please specifiy a default value for "SkinItem" property at its declaration:
+ 
+// Before:
+@property(...)
+value;
+// After:
+@property(...)
+value = 0 skinType
+2019-11-08 19:34:09-warn: [Scene] Please specifiy a default value for "MoreGameItem" property at its declaration:
+ 
+// Before:
+@property(...)
+value;
+// After:
+@property(...)
+value = 0 Id
+2019-11-08 19:34:09-warn: [Scene] The type of "MoreGameItem.Id" must be CCString, not String.
+2019-11-08 19:38:23-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 19:38:24-log: Initializing...
+
+2019-11-08 19:38:24-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 19:38:25-log: starting ide...
+
+2019-11-08 19:38:28-log: IDE server has started, listening on http://127.0.0.1:52966
+
+2019-11-08 19:38:28-log: initialization finished
+
+2019-11-08 19:38:30-log: open IDE success
+
+2019-11-08 19:41:55-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 19:41:56-log: Initializing...
+
+2019-11-08 19:41:56-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 19:41:57-log: starting ide...
+
+2019-11-08 19:42:00-log: IDE server has started, listening on http://127.0.0.1:47940
+
+2019-11-08 19:42:00-log: initialization finished
+
+2019-11-08 19:42:02-log: open IDE success
+
+2019-11-08 19:54:24-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 19:54:25-log: Initializing...
+
+2019-11-08 19:54:25-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 19:54:26-log: starting ide...
+
+2019-11-08 19:54:29-log: IDE server has started, listening on http://127.0.0.1:52212
+
+2019-11-08 19:54:29-log: initialization finished
+
+2019-11-08 19:54:31-log: open IDE success
+
+2019-11-08 20:01:17-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:01:17-log: Initializing...
+
+2019-11-08 20:01:17-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:01:18-log: starting ide...
+
+2019-11-08 20:01:23-log: IDE server has started, listening on http://127.0.0.1:34990
+
+2019-11-08 20:01:23-log: initialization finished
+
+2019-11-08 20:01:24-log: open IDE success
+
+2019-11-08 20:01:32-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:01:33-log: Initializing...
+
+2019-11-08 20:01:33-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:01:34-log: starting ide...
+
+2019-11-08 20:01:37-log: IDE server has started, listening on http://127.0.0.1:62382
+
+2019-11-08 20:01:37-log: initialization finished
+
+2019-11-08 20:01:38-log: open IDE success
+
+2019-11-08 20:03:07-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:03:08-log: Initializing...
+
+2019-11-08 20:03:08-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:03:09-log: starting ide...
+
+2019-11-08 20:03:12-log: IDE server has started, listening on http://127.0.0.1:13563
+
+2019-11-08 20:03:12-log: initialization finished
+
+2019-11-08 20:03:13-log: open IDE success
+
+2019-11-08 20:08:36-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:08:36-log: Initializing...
+
+2019-11-08 20:08:36-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:08:37-log: starting ide...
+
+2019-11-08 20:08:41-log: IDE server has started, listening on http://127.0.0.1:32705
+
+2019-11-08 20:08:41-log: initialization finished
+
+2019-11-08 20:08:42-log: open IDE success
+
+2019-11-08 20:12:34-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:12:35-log: Initializing...
+
+2019-11-08 20:12:35-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:12:36-log: starting ide...
+
+2019-11-08 20:12:39-log: IDE server has started, listening on http://127.0.0.1:43088
+
+2019-11-08 20:12:39-log: initialization finished
+
+2019-11-08 20:12:40-log: open IDE success
+
+2019-11-08 20:18:58-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:18:59-log: Initializing...
+
+2019-11-08 20:18:59-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:19:00-log: starting ide...
+
+2019-11-08 20:19:03-log: IDE server has started, listening on http://127.0.0.1:58133
+
+2019-11-08 20:19:03-log: initialization finished
+
+2019-11-08 20:19:05-log: open IDE success
+
+2019-11-08 20:21:54-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:21:55-log: Initializing...
+
+2019-11-08 20:21:55-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:21:56-log: starting ide...
+
+2019-11-08 20:21:59-log: IDE server has started, listening on http://127.0.0.1:44627
+
+2019-11-08 20:21:59-log: initialization finished
+
+2019-11-08 20:22:00-log: open IDE success
+
+2019-11-08 20:22:29-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:22:30-log: Initializing...
+
+2019-11-08 20:22:30-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:22:31-log: starting ide...
+
+2019-11-08 20:22:34-log: IDE server has started, listening on http://127.0.0.1:29108
+
+2019-11-08 20:22:34-log: initialization finished
+
+2019-11-08 20:22:35-log: open IDE success
+
+2019-11-08 20:27:14-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:27:15-log: Initializing...
+
+2019-11-08 20:27:15-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:27:16-log: starting ide...
+
+2019-11-08 20:27:19-log: IDE server has started, listening on http://127.0.0.1:60401
+
+2019-11-08 20:27:19-log: initialization finished
+
+2019-11-08 20:27:21-log: open IDE success
+
+2019-11-08 20:31:27-log: Run command : -o E:\CoCos3DLst\HappyBall1.0.0beta\build\wechatgame -f cocos
+2019-11-08 20:31:28-log: Initializing...
+
+2019-11-08 20:31:28-log: idePortFile: C:\Users\Administrator\AppData\Local\微信开发者工具\User Data\Default\.ide
+
+2019-11-08 20:31:29-log: starting ide...
+
+2019-11-08 20:31:32-log: IDE server has started, listening on http://127.0.0.1:55075
+
+2019-11-08 20:31:32-log: initialization finished
+
+2019-11-08 20:31:34-log: open IDE success
+

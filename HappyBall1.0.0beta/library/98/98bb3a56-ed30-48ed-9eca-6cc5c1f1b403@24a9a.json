@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "becf8553-fdee-4ec6-abb0-71114fe8526c",
+    "name": "游戏logo",
+    "atlas": "98bb3a56-ed30-48ed-9eca-6cc5c1f1b403",
+    "rect": {
+      "x": 536,
+      "y": 622,
+      "width": 43,
+      "height": 60
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 43,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

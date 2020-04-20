@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "3732e983-ec8d-4fc9-94bd-58b9bff8b7df",
+    "name": "道具礼包",
+    "atlas": "f6d3d153-39a0-460c-ae78-10ed6fac11d3",
+    "rect": {
+      "x": 318,
+      "y": 211,
+      "width": 105,
+      "height": 95
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 105,
+      "height": 95
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

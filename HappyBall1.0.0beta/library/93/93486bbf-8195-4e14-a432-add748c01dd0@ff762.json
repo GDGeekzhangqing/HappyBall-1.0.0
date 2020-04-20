@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "image": "8970bfde-f6e7-4d9b-be74-d62d281cd27e",
+    "name": "领取7",
+    "atlas": "93486bbf-8195-4e14-a432-add748c01dd0",
+    "rect": {
+      "x": 1,
+      "y": 221,
+      "width": 272,
+      "height": 218
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 272,
+      "height": 218
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "ver": "1.0.4",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "16fe7127-2b9e-400d-9911-f0fc8e90281f",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".plist",
+    ".json"
+  ],
+  "subMetas": {
+    "aab84": {
+      "ver": "1.0.7",
+      "importer": "sprite-frame",
+      "name": "圈",
+      "id": "aab84",
+      "displayName": "",
+      "uuid": "16fe7127-2b9e-400d-9911-f0fc8e90281f@aab84",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 118,
+        "width": 533,
+        "height": 533,
+        "rawWidth": 533,
+        "rawHeight": 533,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dbed957d-5af3-47d8-911e-95a16a1913fd",
+        "atlasUuid": "16fe7127-2b9e-400d-9911-f0fc8e90281f"
+      }
+    },
+    "9af14": {
+      "ver": "1.0.7",
+      "importer": "sprite-frame",
+      "name": "欢乐转盘",
+      "id": "9af14",
+      "displayName": "",
+      "uuid": "16fe7127-2b9e-400d-9911-f0fc8e90281f@9af14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 613,
+        "height": 118,
+        "rawWidth": 613,
+        "rawHeight": 118,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dbed957d-5af3-47d8-911e-95a16a1913fd",
+        "atlasUuid": "16fe7127-2b9e-400d-9911-f0fc8e90281f"
+      }
+    }
+  },
+  "userData": {
+    "atlasTextureName": "02Btn-1.png",
+    "size": {
+      "width": 613,
+      "height": 651
+    },
+    "uuid": "16fe7127-2b9e-400d-9911-f0fc8e90281f",
+    "textureUuid": "dbed957d-5af3-47d8-911e-95a16a1913fd"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "02Btn-1",
+    "spriteFrames": [
+      "圈",
+      "16fe7127-2b9e-400d-9911-f0fc8e90281f@aab84",
+      "欢乐转盘",
+      "16fe7127-2b9e-400d-9911-f0fc8e90281f@9af14"
+    ]
+  }
+}

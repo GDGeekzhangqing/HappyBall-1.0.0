@@ -1,0 +1,78 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "RelayRankCfg",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "id": 1,
+      "imgLogo": "a",
+      "imgIcon": "c",
+      "txtName": "宇文无敌",
+      "txtScore": "55"
+    },
+    {
+      "id": 2,
+      "imgLogo": "b",
+      "imgIcon": "e",
+      "txtName": "李天命",
+      "txtScore": "533"
+    },
+    {
+      "id": 3,
+      "imgLogo": "f",
+      "imgIcon": "g",
+      "txtName": "掌情道尊",
+      "txtScore": "25"
+    },
+    {
+      "id": 4,
+      "imgLogo": "g",
+      "imgIcon": "c",
+      "txtName": "中二青年",
+      "txtScore": "5"
+    },
+    {
+      "id": 5,
+      "imgLogo": "i",
+      "imgIcon": "j",
+      "txtName": "醉梦",
+      "txtScore": "85"
+    },
+    {
+      "id": 6,
+      "imgLogo": "l",
+      "imgIcon": "m",
+      "txtName": "花海",
+      "txtScore": "35"
+    },
+    {
+      "id": 7,
+      "imgLogo": "n",
+      "imgIcon": "d",
+      "txtName": "绅士",
+      "txtScore": "59"
+    },
+    {
+      "id": 8,
+      "imgLogo": "e",
+      "imgIcon": "f",
+      "txtName": "万花",
+      "txtScore": "235"
+    },
+    {
+      "id": 9,
+      "imgLogo": "h",
+      "imgIcon": "i",
+      "txtName": "决明子",
+      "txtScore": "265"
+    },
+    {
+      "id": 10,
+      "imgLogo": "k",
+      "imgIcon": "e",
+      "txtName": "太白子",
+      "txtScore": "75"
+    }
+  ]
+}
